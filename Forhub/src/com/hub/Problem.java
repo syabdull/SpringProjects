@@ -18,6 +18,10 @@ public class Problem {
 		 return    "name:"+name+",age:"+age+",color:"+color;
 	 }
 	 public static void main(String[]args) {
+		 System.out.println("second Addation");
+		 System.out.println("second Addation");
+		 System.out.println("second Addation");
+		 System.out.println("second Addation");
 	   Problem p=new Problem();
 	     p.show("Abdulla",20,"green");
       System.out.println(p);
